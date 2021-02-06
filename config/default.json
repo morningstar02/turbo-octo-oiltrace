@@ -1,0 +1,11 @@
+{
+    "database": "mongodb://localhost:27017/oiltrace",
+    "server": {
+        "host": "http://localhost",
+        "port": 4200
+    },
+    "sentry": {
+        "dsn": "https://3b2befeda477475497253a675ef3d1dc@o467850.ingest.sentry.io/5494869",
+        "streaming-logs": false
+    }
+}
